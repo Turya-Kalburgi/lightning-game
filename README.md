@@ -10,6 +10,12 @@ I built these to learn computer vision and have some fun with it.
 
 **lightning.py** — charge an energy ball with your hands and fire a lightning bolt at your opponent, kind of like Goku. Two players, different colors.
 
+
+
+https://github.com/user-attachments/assets/7a75d3bd-6819-42aa-ba1e-9aa57a7c1fb2
+
+
+
 ## Run it
 
 You need Python 3.12.
